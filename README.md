@@ -1,1 +1,1 @@
-# Doat-Modelling-qith-apache-Cassandra
+# Data Modelling with Apache Cassandra
