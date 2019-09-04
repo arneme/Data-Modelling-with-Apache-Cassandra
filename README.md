@@ -1,2 +1,2 @@
 # Data Modelling with Apache Cassandra
-The documentation of the project is done in the Jypyter notebook
+The documentation of the project is done in the Jupyter notebook
